@@ -12,7 +12,7 @@ TOKEN = os.getenv("BOT_TOKEN")
 MASTER_ID       = 1285373145
 
 # ── Разработчик / тех. поддержка ─────────────
-SUPPORT_ID      = 5203494525
+SUPPORT_ID      = 5203494525, 988938515
 SUPPORT_USERNAME = "@f4orce"   # ← замени на свой username
 
 # ── Все кто имеет доступ к панели управления ─
