@@ -31,4 +31,4 @@ WELCOME_TEXT = (
 )
 
 # ── Таймаут бездействия (секунды) ────────────
-IDLE_TIMEOUT = 20
+IDLE_TIMEOUT = 100
